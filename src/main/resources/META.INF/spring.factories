@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+kz/andersen/java_intensive_13/custom_data_jpa_spring_boot_starter/JpaAutoConfiguration.java
